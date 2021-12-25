@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xhan97/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=bright_lights)](https://githubtrends.io)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/xhan97/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=bright_lights)](https://githubtrends.io)
 <!---
 xhan97/xhan97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
