@@ -13,8 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💼 Any freelance work? do reach, [email](mailto:xhan@tulip.academy) :)
 - 💬 Ask me about anything, i am happy to help;
 
-**languages and tools:**  
-
+## 📚 Languages and tools
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
@@ -36,6 +35,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xhan97&show_icons=true&locale=en&layout=compact&theme=prussian" alt="xhan97" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&locale=en&theme=prussian" alt="xhan97" /></p>
+## 💻 Open Source Work Stats
+<div align="center">
+<img src='https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xhan97&theme=tokyonight&hide_langs_below=4' />
