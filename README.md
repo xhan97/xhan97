@@ -8,7 +8,7 @@ I am a researcher and a freelance software engineer from China. My research work
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/xhan97/xhan97/blob/master/Assets/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:xhan@tulip.academy) :)
 - 💬 Ask me about anything, i am happy to help;
@@ -35,7 +35,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-## 💻 Open Source Work Stats
+## 📈 Open Source Work Stats
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xhan97&theme=tokyonight&hide_langs_below=4' />
