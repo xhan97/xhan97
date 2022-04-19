@@ -1,10 +1,10 @@
 ## Hi, I'm Xin Han <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=xhan97.xhan97)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhan97&label=Profile%20views&color=0e75b6&style=flat" alt="xhan97" /> </p>
 
 <br />
 
-I am a passionate self-taught full stack web developer and a freelance software engineer from China. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I am a researcher and a freelance software engineer from China. My research works focus on the fields of data mining and machine learning. Particular topics include clustering analysis, anomaly detection, stream clustering and their applications for tourism research.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -28,7 +28,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850640/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
@@ -37,8 +36,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xhan97&show_icons=true&locale=en&layout=compact" alt="xhan97" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xhan97&show_icons=true&locale=en&layout=compact&theme=prussian" alt="xhan97" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&locale=en" alt="xhan97" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xhan97&" alt="xhan97" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&locale=en&theme=prussian" alt="xhan97" /></p>
