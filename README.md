@@ -39,6 +39,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xhan97&show_icons=true&locale=en&layout=compact" alt="xhan97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&locale=en" alt="xhan97" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&locale=en" alt="xhan97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xhan97&" alt="xhan97" /></p>
