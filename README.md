@@ -6,7 +6,7 @@ I am a researcher and a freelance software engineer from China. My research work
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/xhan97/xhan97/blob/main/Assets/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/xhan97/xhan97/blob/main/Assets/code.gif?raw=true" width="450" height="300" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:xhan@tulip.academy) :)
 - 💬 Ask me about anything, i am happy to help;
@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src='https://github-readme-stats.vercel.app/api?username=xhan97&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xhan97&theme=tokyonight&hide_langs_below=4' />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xhan97&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xhan97&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=xhan97&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"></p>
 
