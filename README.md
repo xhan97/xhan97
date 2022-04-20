@@ -6,7 +6,7 @@ I am a researcher and a freelance software engineer from China. My research work
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" src="https://github.com/xhan97/xhan97/blob/main/Assets/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/xhan97/xhan97/blob/main/Assets/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Any freelance work? do reach, [Email](mailto:xhan@tulip.academy) :)
 - 💬 Ask me about anything, i am happy to help;
