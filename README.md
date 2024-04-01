@@ -8,7 +8,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/xhan97/xhan97/blob/main/Assets/code.gif?raw=true" width="400" height="300" />
   
-- 💼 Any freelance work? do reach, [Email](mailto:xhan@tulip.academy) :)
+- 💼 Any freelance work? do reach, [Email](mailto:xhan197@outlook.com) :)
 - 💬 Ask me about anything, i am happy to help;
 
 ## 📚 Languages and tools
