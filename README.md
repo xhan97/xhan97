@@ -45,9 +45,3 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=xhan97&theme=tokyonight&hide_langs_below=4' />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xhan97&theme=gruvbox&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=xhan97&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"></p>
-
-## 🤖 My programming stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
